@@ -1,8 +1,7 @@
 ## Hi there 👋
 <!-- - 🌱 I’m currently learning python -->
-- 🔭 I’m currently working on python 
-- 👯 I’m looking to collaborate on ReactJS
-- 🤔 I’m looking for help with Devops
+- 🔭 I’m currently working on Automation selenium
+- 👯 I’m looking to collaborate on Automation Projects
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
