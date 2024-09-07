@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- - 🌱 I’m currently learning python -->
-- 🔭 I’m currently working on Automation selenium
-- 👯 I’m looking to collaborate on Automation Projects
+- 🔭 .Net and React JS Developer.
+- 👯 I’m looking to collaborate on .NET and React projects.
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
